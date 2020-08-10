@@ -20,5 +20,5 @@ I run and volunteer with [GoodGym](https://www.goodgym.org/runners/sam-ollason?p
  follow Bath rugby and play boardgames.
 
 This blog was created with
-[jekyll](jekyll-organization) using the [minima](https://github.com/jekyll/minima) theme and hosted
+[Jekyll](jekyll-organization) using the [minima](https://github.com/jekyll/minima) theme and hosted
 on GitHub Pages.
