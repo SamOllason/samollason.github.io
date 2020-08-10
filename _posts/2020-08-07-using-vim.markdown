@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Vim post on seccl.tech"
+date:   2020-08-09 08:00:57 +0100
+categories: vim introduction
+---
+
+I help lead our weekly lunch-n-learn program at Seccl. We recently did a few sessions on Vim
+and [here are the notes](https://seccl.tech/blog/dev-learning-lunch-vim-3/) I wrote up about it (with some
+help from Stu Sheppard, thanks Stu!).
