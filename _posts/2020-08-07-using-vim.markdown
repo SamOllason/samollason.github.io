@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vim post on seccl.tech"
+title:  "An introduction to Vim on seccl.tech"
 date:   2020-08-09 08:00:57 +0100
 categories: vim introduction
 ---

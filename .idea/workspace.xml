@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f57846-7d6f-42d7-835a-a07eb4449856" name="Default Changelist" comment="" />
+    <list default="true" id="39f57846-7d6f-42d7-835a-a07eb4449856" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-15-10-inspire-book-notes.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-07-compilers-interpreters.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-07-compilers-interpreters.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-07-introduction-to-graphql.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-07-introduction-to-graphql.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-07-using-vim.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-07-using-vim.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/resources.markdown" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fm57g47Kb9De2iJRSrYyMqxnQd" />
   <component name="ProjectViewState">
@@ -16,9 +36,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -26,11 +47,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_site" />
     </key>
   </component>
@@ -44,6 +66,10 @@
       <updated>1596810262099</updated>
       <workItem from="1596810263515" duration="3930000" />
       <workItem from="1597044549710" duration="12981000" />
+      <workItem from="1602773313299" duration="9485000" />
+      <workItem from="1602841252074" duration="2347000" />
+      <workItem from="1603093039259" duration="3000" />
+      <workItem from="1603093054718" duration="1479000" />
     </task>
     <servers />
   </component>
@@ -51,17 +77,31 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2501" y="443" width="586" height="490" key="find.popup" timestamp="1597061067636">
-      <screen x="0" y="23" width="3840" height="2057" />
+    <state x="1196" y="861" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602834834646">
+      <screen x="0" y="23" width="3840" height="2050" />
+    </state>
+    <state x="1196" y="861" key="#com.intellij.fileTypes.FileTypeChooser/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1602834834646" />
+    <state x="1003" y="627" key="CommitChangelistDialog2" timestamp="1602835086822">
+      <screen x="0" y="23" width="3840" height="2050" />
+    </state>
+    <state x="1003" y="627" key="CommitChangelistDialog2/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1602835086822" />
+    <state width="525" height="445" key="SwitcherDM" timestamp="1602836844082">
+      <screen x="0" y="23" width="3840" height="2050" />
+    </state>
+    <state width="525" height="445" key="SwitcherDM/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1602836844082" />
+    <state x="2501" y="442" width="586" height="554" key="find.popup" timestamp="1603094033045">
+      <screen x="0" y="23" width="3840" height="2050" />
     </state>
     <state x="2501" y="443" width="586" height="490" key="find.popup/3840.1383.1680.1027/0.23.3840.2057@0.23.3840.2057" timestamp="1597061067636" />
+    <state x="2501" y="442" width="586" height="554" key="find.popup/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1603094033045" />
     <state x="2459" y="504" key="run.anything.popup" timestamp="1597047783584">
       <screen x="0" y="23" width="3840" height="2057" />
     </state>
     <state x="2459" y="504" key="run.anything.popup/3840.1383.1680.1027/0.23.3840.2057@0.23.3840.2057" timestamp="1597047783584" />
-    <state x="2459" y="582" width="670" height="676" key="search.everywhere.popup" timestamp="1597050248648">
-      <screen x="0" y="23" width="3840" height="2057" />
+    <state x="2459" y="580" width="670" height="674" key="search.everywhere.popup" timestamp="1603094038820">
+      <screen x="0" y="23" width="3840" height="2050" />
     </state>
     <state x="2459" y="582" width="670" height="676" key="search.everywhere.popup/3840.1383.1680.1027/0.23.3840.2057@0.23.3840.2057" timestamp="1597050248648" />
+    <state x="2459" y="580" width="670" height="674" key="search.everywhere.popup/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1603094038820" />
   </component>
 </project>

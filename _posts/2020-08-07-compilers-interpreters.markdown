@@ -9,7 +9,8 @@ is that they are the boundary between software and hardware. It doesn't matter w
 you are working with and it doesn't matter what environment you are working in, at somepoint there is a 
 compiler translating your code (somehow!?) into a format that can be run on a computer. I think this is fascinating.
 
-This blog entry is a pragmatic, high-level overview of how compilers work. It's aimed at
+I was explaining how compilers work to someone recently and thought I would write down my explanation 
+so that others can learn from it as well. This is a pragmatic, high-level overview of how compilers work. It's aimed at
 someone with little to no knowledge of compilers. It's the introduction I wish I had read
 when I first started. I really enjoy helping others learn, so hopefully these notes are useful to you as well.
 
@@ -32,7 +33,6 @@ There are hybrids like **JIT-compilers** which do a bit of both. They usually st
 is a chance for optimisation, compile the code in the background ('on the fly') while they are still interpreting
 and then swap out un-optimised code for some (more optimised) machine code. This is what the [V8 engine](https://softwareengineering.stackexchange.com/questions/291230/how-does-chrome-v8-work-and-why-was-javascript-not-jit-compiled-in-the-first-pl)
  inside of Chrome does.
-
 
 ## Stages of a compiler/interpreter
 

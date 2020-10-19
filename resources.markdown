@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Here are some of the resources that I have found useful over the years. 
+I'm a self-taught developer these are the resources that I have found useful over the years. Hopefully you will benefit from them too!
 
 # Web Development + JavaScript
 
@@ -20,16 +20,16 @@ points. Entertaining and engaging, I found this useful to get more experience fu
 the stack.
 * [JavaScripts: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) - Essential
 topics for anyone who wants to understand 'why' JavaScript works as it does and to understand
-deeper topics. In my mind you can't be a 'senior' JavaScript developer without understanding some of these concepts.
+deeper topics. If you aren't sure about closures, high-order functions and prototypical inheritance (and why the matter) then check it out.
  * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) -
   Some really important concepts that are useful in all types of programming (stacks, queues, lists).
-  Recommended for any self-taught devs who want to brush up on the fundamentals.
+  Recommended for any self-taught developers who want to grasp some of these fundamentals used in most languages/environments.
 
 # Compilers
 
 * [Crafting Interpreters](https://craftinginterpreters.com/) - Fantastic and very readable
 introduction to designing programming languages and creating compilers.
-I am slowly working through this book and following along with creating an interpreter for.
+I am slowly working through this book and following along with creating an interpreter for the jLox language.
 
 # Design patterns
 
