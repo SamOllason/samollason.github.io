@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f57846-7d6f-42d7-835a-a07eb4449856" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-15-10-inspire-book-notes.markdown" afterDir="false" />
+    <list default="true" id="39f57846-7d6f-42d7-835a-a07eb4449856" name="Default Changelist" comment="Adding 'inspire' blog notes, adding google analytics">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-08-09-symbols-in-javascript.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-08-07-compilers-interpreters.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-07-compilers-interpreters.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-08-07-introduction-to-graphql.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-07-introduction-to-graphql.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-08-07-using-vim.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-07-using-vim.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/resources.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/README.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-08-09-older-blogs.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-08-09-older-blogs.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,39 +65,51 @@
       <workItem from="1602773313299" duration="9485000" />
       <workItem from="1602841252074" duration="2347000" />
       <workItem from="1603093039259" duration="3000" />
-      <workItem from="1603093054718" duration="1479000" />
+      <workItem from="1603093054718" duration="2572000" />
+      <workItem from="1608306372803" duration="2545000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding 'inspire' blog notes, adding google analytics">
+      <created>1603094828558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603094828558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding 'inspire' blog notes, adding google analytics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 'inspire' blog notes, adding google analytics" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1196" y="861" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602834834646">
       <screen x="0" y="23" width="3840" height="2050" />
     </state>
     <state x="1196" y="861" key="#com.intellij.fileTypes.FileTypeChooser/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1602834834646" />
-    <state x="1003" y="627" key="CommitChangelistDialog2" timestamp="1602835086822">
+    <state x="1003" y="627" key="CommitChangelistDialog2" timestamp="1603095097921">
       <screen x="0" y="23" width="3840" height="2050" />
     </state>
-    <state x="1003" y="627" key="CommitChangelistDialog2/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1602835086822" />
+    <state x="1003" y="627" key="CommitChangelistDialog2/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1603095097921" />
     <state width="525" height="445" key="SwitcherDM" timestamp="1602836844082">
       <screen x="0" y="23" width="3840" height="2050" />
     </state>
     <state width="525" height="445" key="SwitcherDM/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1602836844082" />
-    <state x="2501" y="442" width="586" height="554" key="find.popup" timestamp="1603094033045">
+    <state x="857" y="789" key="Vcs.Push.Dialog.v2" timestamp="1603094831082">
       <screen x="0" y="23" width="3840" height="2050" />
     </state>
-    <state x="2501" y="443" width="586" height="490" key="find.popup/3840.1383.1680.1027/0.23.3840.2057@0.23.3840.2057" timestamp="1597061067636" />
-    <state x="2501" y="442" width="586" height="554" key="find.popup/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1603094033045" />
-    <state x="2459" y="504" key="run.anything.popup" timestamp="1597047783584">
-      <screen x="0" y="23" width="3840" height="2057" />
+    <state x="857" y="789" key="Vcs.Push.Dialog.v2/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1603094831082" />
+    <state x="2501" y="444" width="586" height="557" key="find.popup" timestamp="1608308622572">
+      <screen x="0" y="23" width="3840" height="2059" />
     </state>
-    <state x="2459" y="504" key="run.anything.popup/3840.1383.1680.1027/0.23.3840.2057@0.23.3840.2057" timestamp="1597047783584" />
+    <state x="2501" y="444" width="586" height="557" key="find.popup/3840.1290.1680.1027/0.23.3840.2059@0.23.3840.2059" timestamp="1608308622572" />
+    <state x="2501" y="442" width="586" height="554" key="find.popup/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1603094033045" />
     <state x="2459" y="580" width="670" height="674" key="search.everywhere.popup" timestamp="1603094038820">
       <screen x="0" y="23" width="3840" height="2050" />
     </state>
-    <state x="2459" y="582" width="670" height="676" key="search.everywhere.popup/3840.1383.1680.1027/0.23.3840.2057@0.23.3840.2057" timestamp="1597050248648" />
     <state x="2459" y="580" width="670" height="674" key="search.everywhere.popup/3840.1457.1680.1027/0.23.3840.2050@0.23.3840.2050" timestamp="1603094038820" />
   </component>
 </project>
