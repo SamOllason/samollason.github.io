@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first 2 weeks of Blazor and C#"
+title:  "My first 3 weeks learning C# and Blazor"
 date:   2024-08-30 09:30:57 +0100
 categories: blazor c# introduction
 ---
