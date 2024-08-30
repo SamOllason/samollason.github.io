@@ -14,11 +14,6 @@ passionate about helping others learn and improve their skills too.
 The topics are a mixture of what I have been working on 'professionally',
 personal projects I am working on and things I am learning on the side.
 
-My day job is working as a software engineer at [Seccl](https://seccl.tech) where I work
-across the stack with JavaScript technologies. Outside of work
-I run and volunteer with [GoodGym](https://www.goodgym.org/runners/sam-ollason?page=4),
- follow Bath rugby and play boardgames.
-
 This blog was created with
 [Jekyll](jekyll-organization) using the [minima](https://github.com/jekyll/minima) theme and hosted
 on GitHub Pages.
