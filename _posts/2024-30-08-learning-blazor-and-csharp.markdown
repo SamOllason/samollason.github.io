@@ -7,7 +7,7 @@ categories: blazor c# introduction
 
 After a few years working in product managemenent roles and more 'generalist roles' (founding an [embedded finance startup](https://www.sync-savings.com/)), I am excited to be moving back into a full-time software engineering role at [Howden](https://www.howdeninsurance.co.uk/?bridging=off&int=2123&keyword=howden%20insurance&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcITIywhGDjjxvcSGicSRtryxuikt4B_o7A3Ymztfsm3566uwokdpM4aAnmOEALw_wcB). I'm looking forward to using the skills I have gained from these roles that are 'adjacent' to software engineering (perhaps another blog post on this sometime...) in my new role.
 
-While I have remained close to the code and written *some* code in the past few years (mainly building prototypes etc.), I havent been coding full time for a while. Plus, I haven't worked with C# or Blazor before, so I was going to have to sharpen up my programming skills *and* learn a new language/framework at the same time. 
+While I have remained close to the code and written *some* code in the past few years (mainly building prototypes etc.), I havent been coding full time for a while. Plus, I haven't worked with C# or [Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0) before, so I was going to have to sharpen up my programming skills *and* learn a new language/framework at the same time. 
 
 So, here are my first thoughts on C# and Blazor from an intensive 3 weeks of learning before starting my new role, and how these technologies compare to others I have worked with, in my opinion.
 
@@ -17,7 +17,7 @@ Please feel free to message me on [LinkedIn](https://www.linkedin.com/in/sam-oll
 
 # My background
 
-To set the scene: I've been in full-time software dev roles for over 6 years, starting in front-end web development roles (React, [AngularJS](https://angularjs.org/) and also on the backend with JavaScript/TypeScript. I have also worked with C++.
+To set the scene: I've been in full-time software dev roles for over 6 years, starting in front-end web development roles (React, [AngularJS](https://angularjs.org/) and also on the backend with JavaScript/TypeScript). I have also worked with C++.
 
 So I have experience learning new front-end frameworks and working with statically typed languages.
 
@@ -43,12 +43,12 @@ With C# so far the main thing I have found is hooking into JavaScript to run ale
 
 # Scaffolding
 
-I was pleasantly suprised by how easy it is to configure and manage Blazor apps. I remember the days of having to manually configure Webpack for front-end projects which was a complete nightmare. I know things like Vite and NextJS have moved things forward but working with these JavaScript bundlers always feel a bit like hardwork. Perhaps it's partly that C# and Blazor is all Microsoft instead of a created by the community/third parties. I think I prefer a clearer more idiomatic way of doing things instead of a huge array of choice, at least at the moment.
+I was pleasantly suprised by how easy it is to configure and manage Blazor apps. I remember the days of having to manually configure Webpack for front-end projects which was a complete nightmare. I know things like Vite and NextJS have moved things forward but working with these JavaScript bundlers always feel a bit like hardwork. Perhaps it's partly that C# and Blazor is all Microsoft instead of a created by the community/third parties. I think I prefer a clearer and more idiomatic way of doing things instead of a huge array of choice, at least at the moment.
 
 # What I am excited to explore next
 
 I've enjoyed the journey so far (it's quite enjoyable being a novice at a new skill and experiencing the satisfaction of learning!).
 
-* I am looking forward to getting more unto [bUnit](https://bunit.dev/) for testing Blazor UIs
-* I've gotten really interested in [property testing](https://craftbettersoftware.com/p/how-i-write-1000s-tests-with-little) as a way of coverage and want to play around with [FsCheck](https://www.production-ready.de/2023/06/10/property-based-testing-in-csharp-en.html) a bit more
-* I'm keen to start looking more into [Reqnroll](https://docs.reqnroll.net/latest/quickstart/index.html) as a way of generating executable specifications for Blazor apps
+* I am looking forward to getting more into [bUnit](https://bunit.dev/) for testing Blazor UIs
+* I've gotten really interested in [property testing](https://craftbettersoftware.com/p/how-i-write-1000s-tests-with-little) as a way of improving unit test coverage and want to play around with [FsCheck](https://www.production-ready.de/2023/06/10/property-based-testing-in-csharp-en.html) a bit more
+* I'm keen to start looking more into [Reqnroll](https://docs.reqnroll.net/latest/quickstart/index.html) as a way of generating '[executable specifications](https://www.youtube.com/watch?v=knB4jBafR_M)' for Blazor apps
