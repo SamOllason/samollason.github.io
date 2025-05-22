@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on .NET 10.3 preview"
-date:   2025-15-05 10:30:57 +0100
+date:   2025-05-15 10:30:57 +0100
 categories: dotnet c# blazor
 ---
 

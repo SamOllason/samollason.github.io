@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Microsoft Azure Fundamentals Certification"
-date:   2025-22-05 11:30:00 +0100
+date:   2025-05-22 11:30:00 +0100
 categories: microsoft certifications
 ---
 

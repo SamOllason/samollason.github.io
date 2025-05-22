@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on .NET 10.1 and 10.2 previews"
-date:   2025-25-03 10:30:57 +0100
+date:   2025-03-25 10:30:57 +0100
 categories: dotnet c# blazor
 ---
 
