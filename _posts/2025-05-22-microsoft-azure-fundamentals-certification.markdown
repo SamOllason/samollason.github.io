@@ -27,7 +27,7 @@ I am fortunate that we get some 'personal development time' in our work calendar
 
 I spent about 2 hours following the Microsoft dedicated online course with some time googling and checking things out in the Azure portal. The exam was about 40 questions and only took 15-20 mins (with about 20 mins beforehand to login and checkin etc.)
 
-### Final thoughts
+## Final thoughts
 
 ### Would I recommend it?
 
