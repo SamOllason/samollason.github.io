@@ -35,4 +35,4 @@ Thats the key question! I would recommend it to people that are new to Azure and
 
 ### Signed by Satya
 
-Finally, with my 'product development' hat on, I absoltely loved that my digital certificate is signed by Satya Nadella. I thought that was a really nice feature that would have cost Microsoft virtually nothing to build.
+Finally, with my 'product development' hat on, I absolutely loved that my digital certificate is signed by Satya Nadella. I thought that was a really nice feature that would have cost Microsoft virtually nothing to build.
