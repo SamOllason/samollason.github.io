@@ -75,4 +75,4 @@ var factory = new WebApplicationFactory<Program>()
 factory.CreateClient() ...
 ```
 
-(More here)[https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview4/aspnetcore.md#use-webapplicationfactory-with-kestrel-for-integration-testing]
+[More here](https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview4/aspnetcore.md#use-webapplicationfactory-with-kestrel-for-integration-testing)
