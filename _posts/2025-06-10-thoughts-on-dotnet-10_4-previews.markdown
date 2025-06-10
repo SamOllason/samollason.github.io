@@ -5,9 +5,9 @@ date:   2025-06-10 12:13:41+0100
 categories: dotnet c# blazor
 ---
 
-I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 9 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what's will be coming up in .NET 10 later in 2025, in particular those parts that are relevant for folks working with Blazor.
+I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 9 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what's will be coming up in .NET 10 later in 2025.
 
-You can read about other previews here: [2025-25-03-thoughts-on-dotnet-10_1-and_10_2-previews] and [2025-05-15-thoughts-on-dotnet-10_3-previews]. 
+You can read about other previews here: [https://samollason.github.io/]
 
 *(All views expressed are my own).*
 
@@ -15,11 +15,8 @@ You can read about other previews here: [2025-25-03-thoughts-on-dotnet-10_1-and_
 
 .NET 10 will be released in late 2025, but the previews are already being released (10.4 was released in May).
 
- Below are my thoughts on what's been announced and, in particular, what's more relevant to those of us working with Blazor.
+Below are my thoughts on what's been announced and, in particular, what's more relevant to those of us working with Blazor.
 
-You can read my [Thoughts on .Net 10.1 and 10.2 (previews) - Overview](https://dev.azure.com/howdenuki/Development%20Centre%20of%20Expertise/_wiki/wikis/Development%20Centre%20of%20Excellence/924/Thoughts-on-.Net-10.1-and-10.2-(previews)?anchor=overview) and [Thoughts on .NET 10.3 (preview) - Overview](https://dev.azure.com/howdenuki/Development%20Centre%20of%20Expertise/_wiki/wikis/Development%20Centre%20of%20Excellence/1173/Thoughts-on-.NET-10.3-(preview))
-
-If I have misunderstood something or you disagree with me I would love to chat 😃 #everydayaschoolday
 Full announcements: [.NET 10 Preview 4 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/)
 
 
