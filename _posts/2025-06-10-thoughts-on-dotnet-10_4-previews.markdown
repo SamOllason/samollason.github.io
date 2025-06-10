@@ -5,9 +5,9 @@ date:   2025-06-10 12:13:41+0100
 categories: dotnet c# blazor
 ---
 
-I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 9 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what's will be coming up in .NET 10 later in 2025.
+I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 9 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025.
 
-You can read about other previews here: [https://samollason.github.io/]
+You can read about other previews [here](https://samollason.github.io/).
 
 *(All views expressed are my own).*
 
