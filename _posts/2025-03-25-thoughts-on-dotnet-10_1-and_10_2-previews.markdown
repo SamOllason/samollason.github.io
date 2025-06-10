@@ -5,9 +5,9 @@ date:   2025-03-25 10:30:57 +0100
 categories: dotnet c# blazor
 ---
 
-I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 6 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what's will be coming up in .NET 10 later in 2025.
+I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 6 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025.
 
-I've been following the preview releases (10.1 and 10.2 are here!). Below are my thoughts on what's been announced and some of the points that are of more interest to me in my team working with Blazor hyhrid WASM web apps.
+I've been following the preview releases (10.1 and 10.2 are here!). Below are my thoughts on what's been announced and some of the points that are of more interest to me in my team working with Blazor hybrid WASM web apps.
 
 If I have misunderstood something or you disagree with me I would love to chat 😃 #everydayaschoolday
 
