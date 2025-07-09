@@ -16,4 +16,4 @@ I had a screenshot of a wireframe of a table of information that we wanted to ad
 
 I was then really pleased when I continued to iterate on the initial static markup to enhance the table to make it dynamic; I wanted the contents of the table to appear depending on an option a user has selected elsewhere in the app (this was already built at this point).
 
-![Screenshot of how to upload an image to Copilot in Visual Studio](../_images/copilot_agent_mode_upload_screenshot.png)
+![Screenshot of how to upload an image to Copilot in Visual Studio](/_images/copilot_agent_mode_upload_screenshot.png)
