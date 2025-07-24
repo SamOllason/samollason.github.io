@@ -101,4 +101,4 @@ I started by writing down a numbered list of my understanding of how authenticat
 
 # Conclusion
 
-I hope you found this useful. How are you using CoPilot? Feel free to message me on [LinkedIn](https://www.linkedin.com/in/samollason/) :) 
+I hope you found this useful. How are you using CoPilot? Feel free to message me on <a href="https://www.linkedin.com/in/samollason/" target="_blank" rel="noopener">LinkedIn</a> :)
