@@ -25,9 +25,9 @@ This is a skill I have been actively working on and refining recently. It's a ki
 
 I've long been a fan of using TDD (Test Driven Development) as a development practice for many reasons. The obvious ones are that by the time you are finished, you have tests written (instead of moving onto the next feature) and self-documenting code. But another reason, with my product management hat on, is that it constantly forces you to think about the *problems* you are solving *while working on the solution* (e.g. "I want a method that formats the date of birth field on the screen ... so that users don't have to calculate this themselves"), which I think keeps re-focussing you on what you are trying to achieve.
 
-One of the challenges I have always found with TDD is how frustrating and long-winded it can be to set up the infrastructure and boilerplate needed for tests, especially if you are creating tests for a new class or file that doesn't have any prior art. Anyone who has written unit tests in real production apps knows how fiddly and time-consuming it is to mock all of the dependencies needed for unit tests etc etc. We've all been there when you need 50+ lines of setup boilerplate ... all for a method assertion that is one line of code. However, CoPilot changes that! It's extremely good, though not perfect, at generating all of that setup and boilerplate.
+**One of the challenges I have always found with TDD is how frustrating and long-winded it can be to set up the infrastructure and boilerplate needed for tests**, especially if you are creating tests for a new class or file that doesn't have any prior art. Anyone who has written unit tests in real production apps knows how fiddly and time-consuming it is to mock all of the dependencies needed for unit tests etc etc. We've all been there when you need 50+ lines of setup boilerplate ... all for a method assertion that is one line of code. However, CoPilot changes that! It's extremely good, though not perfect, at generating all of that setup and boilerplate.
 
-This leans into the motto I've read about: "outsource your tasks, not your thinking" to CoPilot.
+This leans into the motto I've read about: **"outsource your tasks, not your thinking"** to CoPilot.
 
 This has led me to change my workflow for most tasks to:
 
@@ -38,7 +38,7 @@ This has led me to change my workflow for most tasks to:
 5. I have set up our CoPilot-instructions to ask CoPilot to build and run all unit tests after every change it makes. I inspect the results of the tests (usually they now pass).
 6. Inspect CoPilot's solution: often I have to make a few tweaks, but not much; I suppose when you break down most work items into very small pieces, everything is usually a just a solved problem really, so CoPilot finds this easy.
 
-Another good habit alongside TDD that this encourages is writing down a proper user story, which, again, aligns everyone in the team around what it is you are really doing, and why.
+**Another good habit alongside TDD that this encourages is writing down a proper user story**, which, again, aligns everyone in the team around what it is you are really doing, and why.
 
 I've been surprised by good this approach above is; CoPilot has often added really neat UI layouts and implementations that I wasn't thinking of.
 
@@ -48,11 +48,11 @@ Also, I have added instructions about using TDD and my team's preferences into o
 
 ## 2. Living style guide
 
-Whenever CoPilot doesn't generate code or comments in a way that suits our team's style (or best practice), I update our CoPilot-instructions.md file (which sits in our application solution alongside other documentation) with notes about how things should be done. I have found that this is evolving into a useful and usable 'living' style guide for our project.
+Whenever CoPilot doesn't generate code or comments in a way that suits our team's style (or best practice), pI update our coPilot-instructions.md file (which sits in our application solution alongside other documentation) with notes about how things should be done. I have found that this is evolving into a useful and usable 'living' style guide for our project.
 
 A few months ago I led an initiative at work to author the first draft of our engineer department cross-team C#/Blazor style guide. It lives in a shared Wiki and doesn't really get looked at (largely because it's separated from our workflow). The style guide section of the CoPilot-instructions file is starting to replacing this, and at a certain point I will probably break it out and share it with other teams.
 
-Some examples of things in our CoPilot-instructions (redacted and sensitive information removed):
+A flavour of of our copilot-instructions (redacted and sensitive information removed):
 
 ```
 Context
@@ -79,7 +79,7 @@ Context
 
 ## 3. Increasing unit test coverage
 
-Building on the above, the habit I am getting into is whenever I touch a new area of our codebase, I review the unit test coverage and if it's lacking, then use CoPilot to generate some tests before we add more (via TDD). This increases our coverage and increases my confidence that I haven't broken anything.
+Building on the above, the habit I am getting into is whenever I touch a new area of our codebase, **I review the unit test coverage and if it's lacking, then use CoPilot to generate some tests** before we add more (via TDD). This increases our coverage and increases my confidence that I haven't broken anything.
 
 You are probably thinking, "you should be doing this anyway," and, yes, I completely agree. However, the difference now is that it takes CoPilot seconds to generate dozens of test cases for existing code that I can then tweak, review, and modify, instead of me having to write them all out by hand which, being realistic, isn't always feasible given deadlines and the need to add good quality to the new work being introduced. **This has been a 10x (or more) time saving for me** and has led to us increasing our unit test coverage 5% in a month (despite adding loads of new lines of code).
 
@@ -95,7 +95,7 @@ Similarly, I did a similar exercise for analysing our approach to security – w
 
 I started by writing down a numbered list of my understanding of how authentication/authorization works with our application in terms of the user flow and what methods are called etc. I then asked CoPilot to review it, correct it, and provide me with snippets and file locations of where the configuration is. It wasn't always right, but it got me 95% of the way.
 
-A massive benefit of using CoPilot to co-author these documents is speed of learning and being able to produce useful and relevant documentation to add to the solution for others as well. A double win!
+**A massive benefit of using CoPilot to co-author these documents is speed of learning and being able to produce useful and relevant documentation to add to the solution for others as well. A double win!**
 
 ---
 
