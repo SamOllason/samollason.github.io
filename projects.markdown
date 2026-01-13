@@ -10,4 +10,6 @@ Sometimes I build medium/large projects that are a prototype of a product I am i
 
 * **Route Sniffer** — AI-powered dog walking route planner I designed and built end-to-end. Frustrated that no app could generate unique routes for adventures with my Springer Spaniel, Obi, I built my own solution. Orchestrated multiple AI/map APIs into a single request pipeline using React, TypeScript, Next.js, and Supabase. Implemented React Server Components with optimistic UI updates. Engineered for cost-efficiency: ~$0.04 per AI-generated route. [GitHub →](https://github.com/SamOllason/woof-woof-walkies)
 
-* **Bird migration game** - I built a v small bird migration modelling game to explore state in a system and explore the difference between explicitly modelling state and implicitly modelling state. [Live demo →](https://samollason.github.io/ui-state-modelling-demo/), [GitHub →](https://github.com/SamOllason/ui-state-modelling-demo).
+* **Bird migration game** - I built a very small bird migration modelling game to explore state in a system and explore the difference between explicitly modelling state and implicitly modelling state. [Live demo →](https://samollason.github.io/ui-state-modelling-demo/), [GitHub →](https://github.com/SamOllason/ui-state-modelling-demo).
+
+* **GraphQL + Apollo + TypeScript playground** - Minimal project to explore end-to-end GraphQL workflow and setup. Bonus points if you manage to find how I snuck in a dog theme 😉 [GitHub →](https://github.com/SamOllason/GraphQL-Apollo-Playground).
