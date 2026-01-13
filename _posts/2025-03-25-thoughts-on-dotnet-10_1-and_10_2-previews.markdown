@@ -5,7 +5,7 @@ date:   2025-03-25 10:30:57 +0100
 categories: dotnet c# blazor
 ---
 
-I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 6 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025.
+I've been working with .NET at <a href="https://www.howdengroup.com/uk-en" target="_blank">Howden</a> for about 6 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025.
 
 I've been following the preview releases (10.1 and 10.2 are here!). Below are my thoughts on what's been announced and some of the points that are of more interest to me in my team working with Blazor hybrid WASM web apps.
 
@@ -50,7 +50,7 @@ Thanks for reading. I hope you found this interesting and/or useful! I certainly
 
  ##Read more
 
-* [.NET 10 Preview 1 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1/#%F0%9F%93%A2-.net-10-discussions)
-[What's new in C# 14 | Microsoft Learn](https://learn.microsoft.com/en-gb/dotnet/csharp/whats-new/csharp-14)
-* Subscribe to the .NET newsletter to get updates: [Newsletter - .NET Blog](https://devblogs.microsoft.com/dotnet/newsletter/)
+* <a href="https://devblogs.microsoft.com/dotnet/dotnet-10-preview-1/#%F0%9F%93%A2-.net-10-discussions" target="_blank">.NET 10 Preview 1 is now available! - .NET Blog</a>
+<a href="https://learn.microsoft.com/en-gb/dotnet/csharp/whats-new/csharp-14" target="_blank">What's new in C# 14 | Microsoft Learn</a>
+* Subscribe to the .NET newsletter to get updates: <a href="https://devblogs.microsoft.com/dotnet/newsletter/" target="_blank">Newsletter - .NET Blog</a>
   

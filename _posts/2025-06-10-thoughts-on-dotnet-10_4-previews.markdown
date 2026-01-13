@@ -5,9 +5,9 @@ date:   2025-06-10 12:13:41+0100
 categories: dotnet c# blazor
 ---
 
-I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 9 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025.
+I've been working with .NET at <a href="https://www.howdengroup.com/uk-en" target="_blank">Howden</a> for about 9 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025.
 
-You can read about other previews [here](https://samollason.github.io/).
+You can read about other previews <a href="https://samollason.github.io/" target="_blank">here</a>.
 
 *(All views expressed are my own).*
 
@@ -17,7 +17,7 @@ You can read about other previews [here](https://samollason.github.io/).
 
 Below are my thoughts on what's been announced and, in particular, what's more relevant to those of us working with Blazor.
 
-Full announcements: [.NET 10 Preview 4 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/)
+Full announcements: <a href="https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/" target="_blank">.NET 10 Preview 4 is now available! - .NET Blog</a>
 
 
 # A more 'meta' point
@@ -75,4 +75,4 @@ var factory = new WebApplicationFactory<Program>()
 factory.CreateClient() ...
 ```
 
-[More here](https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview4/aspnetcore.md#use-webapplicationfactory-with-kestrel-for-integration-testing)
+<a href="https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview4/aspnetcore.md#use-webapplicationfactory-with-kestrel-for-integration-testing" target="_blank">More here</a>

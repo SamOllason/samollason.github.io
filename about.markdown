@@ -34,4 +34,4 @@ I'm a self-taught developer, so I'm passionate about helping others learn and im
 
 The topics mix what I'm working on professionally, personal projects, and things I'm exploring on the side.
 
-This site was built with [Jekyll](jekyll-organization) using the [minima](https://github.com/jekyll/minima) theme and is hosted on GitHub Pages.
+This site was built with <a href="jekyll-organization" target="_blank">Jekyll</a> using the <a href="https://github.com/jekyll/minima" target="_blank">minima</a> theme and is hosted on GitHub Pages.

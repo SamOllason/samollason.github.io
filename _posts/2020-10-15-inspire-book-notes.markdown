@@ -11,7 +11,7 @@ I am always trying to learn more about what makes technology companies successfu
 "What factors, from a product development perspective, make modern product companies such as Google, Spotify, and Facebook successful, and what sets them
 apart from other, less successful companies?"
 
-I mentioned this to Our Head of Product at Seccl and he recommended a book called [Inspire](https://www.amazon.co.uk/Inspired-Create-Tech-Products-Customers/dp/1119387507/ref=asc_df_1119387507/?tag=googshopuk-21&linkCode=df0&hvadid=310865071345&hvpos=&hvnetw=g&hvrand=4366418849702604076&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044965&hvtargid=pla-387522764878&psc=1&th=1&psc=1)
+I mentioned this to Our Head of Product at Seccl and he recommended a book called <a href="https://www.amazon.co.uk/Inspired-Create-Tech-Products-Customers/dp/1119387507/ref=asc_df_1119387507/?tag=googshopuk-21&linkCode=df0&hvadid=310865071345&hvpos=&hvnetw=g&hvrand=4366418849702604076&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044965&hvtargid=pla-387522764878&psc=1&th=1&psc=1" target="_blank">Inspire</a>
 by Marty Cagan (MC). 
 I found the book eye-opening and incredibly interesting.
 
@@ -129,8 +129,8 @@ a focus on solving the customers problems and faster delivery of real business v
 
 # Going full agile
 
-The 'classic' team structure clearly encourages the '[waterfall](https://en.wikipedia.org/wiki/Waterfall_model)' development process. MC mentions this
-and says that although lots of companies reject the waterfall approach adopt an [agile](https://en.wikipedia.org/wiki/Agile_software_development) approach
+The 'classic' team structure clearly encourages the '<a href="https://en.wikipedia.org/wiki/Waterfall_model" target="_blank">waterfall</a>' development process. MC mentions this
+and says that although lots of companies reject the waterfall approach adopt an <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">agile</a> approach
 (of working in small batches and regularly reviewing to react to change), 
 lots of companies only apply this to their software development and delivery process (the very few final steps 
 at the end of the chain). Instead, MC says that companies should apply this approach

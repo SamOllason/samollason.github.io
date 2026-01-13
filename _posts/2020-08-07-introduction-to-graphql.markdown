@@ -6,4 +6,4 @@ categories: graphql introduction
 ---
 
 I help lead our regular lunch-n-learn program at Seccl. I recently wrote an introduction
-to GraphQL and lead a presentation [based on the article](https://seccl.tech/blog/introduction-graphql/). 
+to GraphQL and lead a presentation <a href="https://seccl.tech/blog/introduction-graphql/" target="_blank">based on the article</a>. 

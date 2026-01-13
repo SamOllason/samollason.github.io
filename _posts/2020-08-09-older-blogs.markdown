@@ -7,4 +7,4 @@ categories:
 
 I used to blog on Medium before I set up this site that I will migrate someday.
 
-You can see those blogs [here](https://medium.com/@sam_ollason).
+You can see those blogs <a href="https://medium.com/@sam_ollason" target="_blank">here</a>.

@@ -8,7 +8,7 @@ categories: ai productivity
 **TL;DR**
 My top tips to stay in control, maximise learning and get the best from months of Vibe Coding (using Copilot in agent mode).
 
-I've been using Copilot to improve my productivity a lot in 2025. I'm always exploring how it can serve me best. I've written about it before [here](https://samollason.github.io/ai/2025/07/24/using-copilot-agent-and-tdd.html) and lead sessions sharing my learnings across Howden's engineering function.
+I've been using Copilot to improve my productivity a lot in 2025. I'm always exploring how it can serve me best. I've written about it before <a href="https://samollason.github.io/ai/2025/07/24/using-copilot-agent-and-tdd.html" target="_blank">here</a> and lead sessions sharing my learnings across Howden's engineering function.
 
 I'm convinced the best engineers are going to be those that can play the orchestrator mode (shepherding AI to do the 80%) and the heart surgeon role (locate and dive into a very specific line of code to solve a nuanced and tricky issue - the 20%).
 

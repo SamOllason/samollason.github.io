@@ -17,7 +17,7 @@ when I first started. I really enjoy helping others learn, so hopefully these no
 ## What is a compiler?
 
 A compiler is a computer program that translates some code into another format that can be executed. That format
-can be at a lower-level of [abstraction](https://en.wikipedia.org/wiki/High-level_programming_language) (e.g. translating C++ code to machine code (1's and '0s))
+can be at a lower-level of <a href="https://en.wikipedia.org/wiki/High-level_programming_language" target="_blank">abstraction</a> (e.g. translating C++ code to machine code (1's and '0s))
 or at the same level of abstraction, e.g. translating TypeScript into JavaScript (the fancy word for this second type
 is 'transpilation').
 
@@ -31,7 +31,7 @@ An **interpreter** does some translating and then actually executes that code as
 
 There are hybrids like **JIT-compilers** which do a bit of both. They usually start interpreting code, realise when there
 is a chance for optimisation, compile the code in the background ('on the fly') while they are still interpreting
-and then swap out un-optimised code for some (more optimised) machine code. This is what the [V8 engine](https://softwareengineering.stackexchange.com/questions/291230/how-does-chrome-v8-work-and-why-was-javascript-not-jit-compiled-in-the-first-pl)
+and then swap out un-optimised code for some (more optimised) machine code. This is what the <a href="https://softwareengineering.stackexchange.com/questions/291230/how-does-chrome-v8-work-and-why-was-javascript-not-jit-compiled-in-the-first-pl" target="_blank">V8 engine</a>
  inside of Chrome does.
 
 ## Stages of a compiler/interpreter
@@ -71,7 +71,7 @@ intermediate representation ('IR'). This is like a set of richer ASTs. For insta
 some optimisations on your code.
 
 A big benefit of having this step in the pipeline is that you can have several 
-programming languages that can be translated to the same IR (with their own scanner and parser). This is part of what [LLVM](https://llvm.org/) offers.
+programming languages that can be translated to the same IR (with their own scanner and parser). This is part of what <a href="https://llvm.org/" target="_blank">LLVM</a> offers.
 The advantage you have of targeting
 an IR like LLVM is you can use their back-end parts and create your own language more quickly.
 
@@ -92,7 +92,7 @@ A common example is transpiling TypeScript to JavaScript. The outputted JavaScri
 
 #### 2 - Creating bytecode for a virtual machine (VM)
 
-[Bytecode](https://fhinkel.rocks/2017/08/16/Understanding-V8-s-Bytecode/) is kind of halfway between human source code and the assembley code that is used to create the machine code. It's sort of human readable, but not easily.
+<a href="https://fhinkel.rocks/2017/08/16/Understanding-V8-s-Bytecode/" target="_blank">Bytecode</a> is kind of halfway between human source code and the assembley code that is used to create the machine code. It's sort of human readable, but not easily.
 The bytecode can then be executed on a VM. A VM is like a simulated computer chip. It's not a physical chip but
 it's actually a program that does some clever stuff (kind of like with its
 own compiler internally) to run your code on whatever platform the VM is actually running on. The big advantage of generating bytecode to target a VM with your compiler
@@ -119,5 +119,5 @@ This was an introduction to what a compilers and interpreters do, what the diffe
 and some of the tradeoffs that have to be made when creating a compiler or an interpreter. Hopefully you found this useful
 and interesting. Let me know what you think!
 
-For further reading I highly recommend [Crafting Interpreters](https://craftinginterpreters.com/)
+For further reading I highly recommend <a href="https://craftinginterpreters.com/" target="_blank">Crafting Interpreters</a>
 (a free online book).

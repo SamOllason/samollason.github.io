@@ -15,7 +15,7 @@ notes I wish I had last week! Hopefully they help you too.
 JavaScript has two categories of types: primitives and objects. 
 Technically, `null` is both a primitive and an object, 
 so the more accurate definition is of a primitive is: *If it isn’t an object and has 
-no methods then it's a primitive* (see [here](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)).
+no methods then it's a primitive* (see <a href="https://developer.mozilla.org/en-US/docs/Glossary/Primitive" target="_blank">here</a>).
 
 A few years ago the Symbol primitive was added to the language. I read about it at the time and remember getting the impression that 
 it's a bit of a niche corner of the language that most people won’t
@@ -118,15 +118,15 @@ const path = request[sym].path
 
 ```
 
-However, that approach [doesn't agree with TypeScript just quite yet](https://stackoverflow.com/questions/59118271/using-symbol-as-object-key-type-in-typescript)
+However, that approach <a href="https://stackoverflow.com/questions/59118271/using-symbol-as-object-key-type-in-typescript" target="_blank">doesn't agree with TypeScript just quite yet</a>
 (as at December 2020), so you will have to add `@ts-ignore` above where `sym` is used!
 
 # Accessing symbolic keys - methods
 Sometimes you will get lucky and the object you are working with has some methods to access symbolic keys
 easily. I also had to access the 'headers' field in a request as part of this test and fortunately there
-is a method that just takes care of this nicely in this object. You can see more [here](https://stackoverflow.com/questions/50060008/nodejs-parse-fetch-response-containing-object-symbolmap).
+is a method that just takes care of this nicely in this object. You can see more <a href="https://stackoverflow.com/questions/50060008/nodejs-parse-fetch-response-containing-object-symbolmap" target="_blank">here</a>.
 
 
 ## More reading
-* [https://stackoverflow.com/questions/50060008/nodejs-parse-fetch-response-containing-object-symbolmap/50856907](https://stackoverflow.com/questions/50060008/nodejs-parse-fetch-response-containing-object-symbolmap/50856907)
-* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
+* <a href="https://stackoverflow.com/questions/50060008/nodejs-parse-fetch-response-containing-object-symbolmap/50856907" target="_blank">https://stackoverflow.com/questions/50060008/nodejs-parse-fetch-response-containing-object-symbolmap/50856907</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol" target="_blank">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol</a>

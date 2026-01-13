@@ -5,7 +5,7 @@ date:   2025-05-15 10:30:57 +0100
 categories: dotnet c# blazor
 ---
 
-I've been working with .NET at [Howden](https://www.howdengroup.com/uk-en) for about 6 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025, in particular those parts that are relevant for folks working with Blazor.
+I've been working with .NET at <a href="https://www.howdengroup.com/uk-en" target="_blank">Howden</a> for about 6 months now and, after getting my head around whats available 'now' in .NET I have been looking to the future with what will be coming up in .NET 10 later in 2025, in particular those parts that are relevant for folks working with Blazor.
 
 You can read about other previews here: [2025-25-03-thoughts-on-dotnet-10_1-and_10_2-previews]
 
@@ -13,14 +13,14 @@ You can read about other previews here: [2025-25-03-thoughts-on-dotnet-10_1-and_
 
 If I have misunderstood something or you disagree with me I would love to chat 😃 #everydayaschoolday
 
-Full announcement: [.NET 10 Preview 3 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/)
+Full announcement: <a href="https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/" target="_blank">.NET 10 Preview 3 is now available! - .NET Blog</a>
 
 
 # Blazor and ASP.NET Core
 
 ## Declarative model for persisting component state 💪
 
-**Who will this benefit:** This is useful for any server-rendered components (i.e. any component that isn't Interactive WebAssembly [render mode](https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-9.0).
+**Who will this benefit:** This is useful for any server-rendered components (i.e. any component that isn't Interactive WebAssembly <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-9.0" target="_blank">render mode</a>.
 
 **What is this all about:** Persisting component state means saving some data during prerendering and restoring it when the app becomes interactive (in the browser), so there is no need to refetch is and the user experience is sharper.
 
@@ -117,16 +117,16 @@ Validation support looks useful and is something I will bear in mind when we nee
 
 
 More info:
-[core/release-notes/10.0/preview/preview3/aspnetcore.md at main · dotnet/core · GitHub](https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview3/aspnetcore.md#validation-support-in-minimal-apis)
+<a href="https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview3/aspnetcore.md#validation-support-in-minimal-apis" target="_blank">core/release-notes/10.0/preview/preview3/aspnetcore.md at main · dotnet/core · GitHub</a>
 
 
 # #C 14 new features in 10.3
 
 ## Null-conditional assignment 🤫
 
-This assigns a value to a property or field only if the containing instance exists. This is a neat way to reduce boilerplate and I'm already used to using nifty shortcuts for working with nullable _properties_ with a more compact syntax (e.g. [null conditionals](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-)) so making use of this syntax for nullable _objects_ seems like a logical extension. **I like this!**
+This assigns a value to a property or field only if the containing instance exists. This is a neat way to reduce boilerplate and I'm already used to using nifty shortcuts for working with nullable _properties_ with a more compact syntax (e.g. <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-" target="_blank">null conditionals</a>) so making use of this syntax for nullable _objects_ seems like a logical extension. **I like this!**
 
-More here: [core/release-notes/10.0/preview/preview3/csharp.md at main · dotnet/core · GitHub](https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview3/csharp.md#null-conditional-assignment)
+More here: <a href="https://github.com/dotnet/core/blob/main/release-notes/10.0/preview/preview3/csharp.md#null-conditional-assignment" target="_blank">core/release-notes/10.0/preview/preview3/csharp.md at main · dotnet/core · GitHub</a>
 
 
 ## Extension members ⛓️

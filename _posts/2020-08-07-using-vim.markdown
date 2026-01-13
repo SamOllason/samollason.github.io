@@ -6,5 +6,5 @@ categories: vim introduction
 ---
 
 I help lead our weekly lunch-n-learn program at Seccl. We recently did a few sessions on Vim
-and [here are the notes](https://seccl.tech/blog/dev-learning-lunch-vim-3/) I wrote up about it (with some
+and <a href="https://seccl.tech/blog/dev-learning-lunch-vim-3/" target="_blank">here are the notes</a> I wrote up about it (with some
 help from Stu Sheppard, thanks Stu!).

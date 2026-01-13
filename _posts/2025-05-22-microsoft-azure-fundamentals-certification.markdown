@@ -5,7 +5,7 @@ date:   2025-05-22 11:30:00 +0100
 categories: microsoft certifications
 ---
 
-I've been working with .NET and Azure at [Howden](https://www.howdengroup.com/uk-en) for about 9 months now. I recently passed the [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) certification (on the 2nd attempt!) and, after talking to some colleagues about my experience, I thought it would useful with others that are considering the exam.
+I've been working with .NET and Azure at <a href="https://www.howdengroup.com/uk-en" target="_blank">Howden</a> for about 9 months now. I recently passed the <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification" target="_blank">Microsoft Azure Fundamentals</a> certification (on the 2nd attempt!) and, after talking to some colleagues about my experience, I thought it would useful with others that are considering the exam.
 
 ## Why?
 
