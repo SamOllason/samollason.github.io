@@ -6,13 +6,13 @@ permalink: /about/
 
 ## Hey, I'm Sam 👋
 
-I build tools that solve real problems.
+I am a full stack AI developer who creates tools that help peolpe.
 
-I've spent 8+ years shipping products across insurance, fintech, and wealth management—building disruptive zero-to-one products from scratch and scaling platforms to millions of users.
+I've spent 9+ years shipping products across insurance, fintech, and wealth management—building disruptive zero-to-one products from scratch and scaling platforms to millions of users.
 
-I've worked across software engineering, product management, and founding startups. I love being able to move between business strategy, product strategy, and code.
+I've worked across software engineering, product management, and I've founded startups. I love being able to move between business strategy, product strategy, and code.
 
-**Currently:** Senior Software Engineer + Interim Engineering Manager @ Howden (global insurance group)
+**Currently:** Senior Software Engineer + Interim Engineering Manager @ Howden Global Insurance
 
 **Tech I work with:**
 - Front-End: TypeScript, JavaScript, Blazor, React, React Native, Redux, D3.js

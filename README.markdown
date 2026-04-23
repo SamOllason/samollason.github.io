@@ -2,7 +2,7 @@ This is my personal site. Please visit <a href="https://samollason.github.io" ta
 
 I had fun creating this with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and gh-pages.
 
-To serve locally
+To serve locally:
 
 `bundle exec jekyll serve --livereload`
 
