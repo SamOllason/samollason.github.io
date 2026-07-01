@@ -162,24 +162,16 @@ Then respond exactly with:
 
 ![Screenshot of weather analyst agent in the workflow in Foundry portal](/_images/f1-copilot/f1-copilot-weather-analyst.png)
 
-The Weather Analyst follows exactly the same pattern.
+The Weather Analyst follows exactly the same pattern. For the demo it uses sample weather snapshots stored in Foundry.
 
-For the demo it uses sample weather snapshots stored in Foundry.
-
-In production I'd expect this to consume a weather API or another internal service that publishes current and forecast track conditions.
-
-Again, the AI isn't responsible for gathering data.
-
-It's responsible for interpreting it.
+In production I'd expect this to consume a weather API or another internal service that publishes current and forecast track conditions. Again, the AI isn't responsible for gathering data but is responsible for interpreting it.
 
 ## Strategy Reviewer
 
 ![Screenshot of strategy analyst agent in the workflow in Foundry portal](/_images/f1-copilot/f1-copilot-strategy-analyst.png)
 
 Rather than making decisions, it acts as a *synthesiser*.
-It reviews the findings from the specialist agents, compares options, highlights trade-offs and identifies risks.
-
-Importantly, it doesn't recommend a final action, its job is simply to organise the evidence.
+It reviews the findings from the specialist agents, compares options, highlights trade-offs and identifies risks. Importantly, it doesn't recommend a final action, its job is simply to organise the evidence.
 
 ## Race Engineer
 
@@ -195,9 +187,7 @@ or
 
 > Stay out for another three laps.
 
-It also explains *why* that recommendation has been made and assigns a confidence level.
-
-Again, it's making a recommendation, not executing a decision.
+It also explains *why* that recommendation has been made and assigns a confidence level. Again, it's making a recommendation, not executing a decision.
 
 ---
 
@@ -223,15 +213,9 @@ Whether you're approving an insurance claim, recommending a healthcare treatment
 
 # Grounding the AI
 
-Each specialist agent uses Retrieval Augmented Generation (RAG).
+Each specialist agent uses Retrieval Augmented Generation (RAG). If you haven't come across RAG before, it's essentially a way of giving an LLM access to your own data rather than relying purely on what it learnt during training.
 
-If you haven't come across RAG before, it's essentially a way of giving an LLM access to your own data rather than relying purely on what it learnt during training.
-
-In my case I uploaded a few PDF race snapshots directly into Foundry.
-
-Foundry handles chunking the documents, creating embeddings and building the search index behind the scenes.
-
-The agents then retrieve the relevant information before generating their response. It's a really nice developer experience!
+In my case I uploaded a few PDF race snapshots directly into Foundry. Foundry handles chunking the documents, creating embeddings and building the search index behind the scenes. The agents then retrieve the relevant information before generating their response. It's a really nice developer experience!
 
 ---
 
@@ -273,15 +257,7 @@ Azure AI Foundry Workflow
 Human Approval
 ```
 
-The AI shouldn't be responsible for parsing raw telemetry.
-
-It should consume well-structured, validated information produced by traditional software.
-
-That's probably the biggest thing I've taken away from this project.
-
-Modern AI systems aren't replacing software engineering.
-
-They're combining deterministic software with probabilistic reasoning.
+The AI shouldn't be responsible for parsing raw telemetry. It should consume well-structured, validated information produced by traditional software. That's probably the biggest thing I've taken away from this project: Modern AI systems aren't replacing software engineering but are combining deterministic software with probabilistic reasoning.
 
 ---
 
