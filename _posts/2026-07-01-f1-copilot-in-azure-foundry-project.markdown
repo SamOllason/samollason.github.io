@@ -13,11 +13,11 @@ I've been having a lot of fun building AI projects recently. My last project, Ro
 
 At work we use Azure, and as part of working towards the Azure AI Engineer Associate <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/?practice-assessment-type=certification" target="_blank">AI-103</a> certification (having recently passed <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/" target="_blank">AI-901</a>), I wanted to get some deeper hands-on experience with Azure AI Foundry.
 
-Rather than just reading the documentation, I followed the excellent [Zero to Mastery - Azure Bootcamp: Build AI Workflows with Microsoft Foundry](https://academy.zerotomastery.io/courses/enrolled/2955514) course and built something fun along the way.
+Rather than just reading the documentation, I followed the excellent <a href="https://zerotomastery.io/courses/azure-ai-bootcamp" target="_blank">Zero to Mastery - Azure Bootcamp: Build AI Workflows with Microsoft Foundry</a> course and built something fun along the way.
 
 I always learn best when there's a project involved.
 
-As a huge Formula 1 fan (Forza Ferrari... [despite the occasional strategy call](https://www.youtube.com/watch?v=BNhilIrtG34) 😅), I decided to build an AI-assisted pit wall that helps a Team Principal answer one simple question.
+As a huge Formula 1 fan (Forza Ferrari... despite the occassional <a href="https://www.youtube.com/watch?v=BNhilIrtG34" target="_blank">despite the occasional strategy call 😅</a> I decided to build an AI-assisted pit wall that helps a Team Principal answer one simple question.
 
 > **Should we pit this lap?**
 
