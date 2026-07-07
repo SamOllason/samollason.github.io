@@ -25,6 +25,15 @@ deeper topics. If you aren't sure about closures, high-order functions and proto
   Some really important concepts that are useful in all types of programming (stacks, queues, lists).
   Recommended for any self-taught developers who want to grasp some of these fundamentals used in most languages/environments.
 
+# System Design
+
+* <a href="https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction" target="_blank">Hello Interview</a>.
+
+# AI Engineering/Development
+
+ * <a href="https://zerotomastery.io/courses/azure-ai-bootcamp" target="_blank">Zero to Mastery - Azure Bootcamp: Build AI Workflows with Microsoft Foundry</a>.
+
+
 # Compilers
 
 * <a href="https://craftinginterpreters.com/" target="_blank">Crafting Interpreters</a> - Fantastic and very readable
