@@ -5,7 +5,7 @@ date: 2026-07-07
 categories: [AI, Azure, Foundry]
 ---
 
-When I started building my <a href="https://samollason.github.io/ai/azure/foundry/2026/07/01/f1-copilot-in-azure-foundry-project.html" target="_blank">F1 Copilot with Azure Foundry</a> I expected most of my time to be spent writing prompts but actually the prompts were only a small part of the project.
+When I started building my <a href="https://samollason.github.io/ai/azure/foundry/2026/07/01/f1-copilot-in-azure-foundry-project-copy.html" target="_blank">F1 Copilot with Azure Foundry</a> I expected most of my time to be spent writing prompts but actually the prompts were only a small part of the project.
 
 Most of my time went into designing the workflow, understanding how data flowed between agents, debugging Power Fx expressions (😰), and figuring out how Azure AI Foundry expects you to model state.
 
