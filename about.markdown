@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hey, I'm Sam 👋
 
-I am a full stack AI developer who creates tools that help peolpe.
+I am a full stack software engineer who creates tools that help peolpe. I have experience in web development and AI engineering.
 
 I've spent 9+ years shipping products across insurance, fintech, and wealth management—building disruptive zero-to-one products from scratch and scaling platforms to millions of users.
 
@@ -20,9 +20,14 @@ I've worked across software engineering, product management, and I've founded st
 - Cloud: Azure, AWS Lambda, Firebase
 - Databases: MongoDB, Supabase
 
-**Certifications:** Microsoft Azure Fundamentals (May 2025)
+**Education/Certifications:** 
+- BSc Mathematics — University of Bath (2:1) including 1 year work placement at Goldman
+Sachs
+- Microsoft Azure Fundamentals (AZ-900) — May 2025
+• Microsoft Certified: Azure AI Fundamentals (AI-901) — June 2026
+• Microsoft GitHub Copilot — June 2026
 
-When I'm not building things, I'm cheering on Bath Rugby or walking my dog Obi through the countryside around Bath, England.
+When I'm not building things, I'm cheering on Bath Rugby or walking my Springer Spaniel Obi through the countryside around Bath, England.
 
 ---
 
