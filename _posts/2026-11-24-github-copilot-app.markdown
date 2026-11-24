@@ -25,6 +25,8 @@ I thought that it would be very similar to the 'code-first, AI-second' approach 
 
 I was pleasantly surprised by just how good the app was. It felt very similar to using Codex in terms of its slick user experience, the ability to connect easily to all the tools I needed, and the coherent and intuitive conversations.
 
+I set is to run on auto-pilot (create branches, push code, create PRs etc all without question) and found that I spent most of my time reviewing the PR to check the unit tests, expand coverage and add comments to areas of the codebase that would confuse a future developer (e.g. where we have to deliberately implement an anti-pattern to accomodate a third-party API).
+
 In particular, I liked
 * How creating parallel 'sessions' was really straightforward. It automatically handled Git work trees.
 * How transparently the tool created subagents and ran terminals, without cluttering the UI or distracting me.
