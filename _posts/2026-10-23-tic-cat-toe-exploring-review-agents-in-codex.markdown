@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tic caT toe: What Dogs and Cats Taught Me About Developing with Codex"
-date: 2026-07-07
+date: 2026-10-23
 categories: [AI, Azure, Foundry]
 ---
 
