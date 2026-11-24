@@ -7,7 +7,7 @@ categories: [AI, SDLC]
 
 # TL;DR
 
-Here are my thoughts on using the GitHub Copilot app for software development.
+Here are my thoughts on using the GitHub Copilot app for software development. I thought it was going to feel a bit clunky like VS and VS Code, but it felt very close to my experiences using Codex and Claude Code.
 
 # The question - What was I trying to understand?
 
@@ -26,7 +26,7 @@ I thought that it would be very similar to the 'code-first, AI-second' approach 
 I was pleasantly surprised by just how good the app was. It felt very similar to using Codex in terms of its slick user experience, the ability to connect easily to all the tools I needed, and the coherent and intuitive conversations.
 
 In particular, I liked
-* How creating 'sessions' was really straightforward. It automatically handled Git work trees.
+* How creating parallel 'sessions' was really straightforward. It automatically handled Git work trees.
 * How transparently the tool created subagents and ran terminals, without cluttering the UI or distracting me.
 * How easy it was to instruct the app to use Playwright to run the app in headless mode, verify the acceptance criteria of the work I was doing, take a screenshot for me and then automatically include that screenshot as evidence in the PR body (which it automatically created and uploaded for me).
 * How easy it was for me to adjust and adapt the tool, all through written instructions. For example, I wanted it to create branch names in a certain pattern whenever I gave it a work item, and it added these to the repository instructions/app settings for me.
@@ -40,6 +40,7 @@ Having built UIs for over 10 years, I am very particular about user experience, 
 * The built-in 'browser' doesn't have developer tools or a history (meaning I have to type in localhost:22127 each time). I am used to having a modern browser to build front-end apps!
 * The browser is also a bit buggy: sometimes half the screen appears extra magnified, and I have to resize the window to recover.
 * One final step I take before sharing work for review with others (that is, other humans!) is to ask 'review this PR using an independent agent to spot errors, edge cases and issues'. Despite it finding several issues and quirks (which verifies that this is a useful step in the workflow!), I don't have full confidence that this was run by a different model, which is really what I would like—for example, getting a Claude model to check the work of a Microsoft model.
+* I cannot find archived sessions, despite asking the app itself, searching sessions and even searching online myself. Let's hope I don't need them! 😅
 
 # Open questions
 
